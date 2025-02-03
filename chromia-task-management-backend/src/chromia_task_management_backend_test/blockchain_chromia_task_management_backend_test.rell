@@ -1,0 +1,3 @@
+// Test module using the scope of blockchain chromia-task-management-backend.
+@test module;
+
