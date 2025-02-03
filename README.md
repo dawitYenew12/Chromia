@@ -2,10 +2,10 @@
 
 ## Authors
 
-- **Name**: Belayneh Getachew
-- **Email**: belaynehgetachew21@gmail.com
-- **Phone**: +251915861487
-- **WhatsApp**: +251915861487
+- **Name**: Dawit Yenew
+- **Email**: dawityenew.12@gmail.com
+- **Phone**: +251948028857
+- **WhatsApp**: +251948028857
 
 ---
 
