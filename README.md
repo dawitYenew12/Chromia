@@ -127,7 +127,6 @@ npm run dev
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182653_a1efas.png" alt="dashboard if not connected" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182736_ogxbkh.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 
-<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738610374/Screenshot_2025-02-03_182608_ambkeh.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738610374/Screenshot_2025-02-03_182633_jun0i3.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775193/d8_dh5zwb.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775194/d88_fux5uk.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
