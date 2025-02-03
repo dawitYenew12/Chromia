@@ -31,21 +31,21 @@ export function ContextProvider({ children }: { children: ReactNode }) {
     };
 
     const initSession = async () => {
-      const nodeUrl = process.env.NEXT_PUBLIC_CHROMIA_NODE_URL;
-      const blockchainIid = process.env.NEXT_PUBLIC_BLOCKCHAIN_IID
-        ? parseInt(process.env.NEXT_PUBLIC_BLOCKCHAIN_IID, 10)
+      const nodeUrl = process.env.PUBLIC_CHROMIA_NODE_URL;
+      const blockchainIid = process.env.PUBLIC_BLOCKCHAIN_IID
+        ? parseInt(process.env.PUBLIC_BLOCKCHAIN_IID, 10)
         : 0;
 
       if (!nodeUrl) {
         console.error(
-          "NEXT_PUBLIC_CHROMIA_NODE_URL is not defined in .env.local"
+          "PUBLIC_CHROMIA_NODE_URL is not defined in .env.local"
         );
         return;
       }
 
       if (blockchainIid === undefined || isNaN(blockchainIid)) {
         console.error(
-          "NEXT_PUBLIC_BLOCKCHAIN_IID is not a valid number or is missing."
+          "PUBLIC_BLOCKCHAIN_IID is not a valid number or is missing."
         );
         return;
       }
