@@ -119,17 +119,17 @@ npm run dev
 
 ## Some screenshots for the application
 
-<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609178/Screenshot_2025-02-03_182445_lt45fs.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609171/Screenshot_2025-02-03_182527_zpnekf.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775190/d4_qo9mp2.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775191/d5_gth0ds.png" alt="Demo Screenshot" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609178/Screenshot_2025-02-03_182445_lt45fs.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609171/Screenshot_2025-02-03_182527_zpnekf.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182546_aqlq4g.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609171/Screenshot_2025-02-03_182608_oob16r.png" alt="connect wallet" style="width: 100%;"/>
 
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775192/d2_wltldz.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775192/d3_rtwydt.png" alt="Demo Screenshot" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182653_a1efas.png" alt="dashboard if not connected" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182736_ogxbkh.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775191/d6_hdeam6.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775192/d7_hvfr56.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775193/d8_dh5zwb.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775194/d88_fux5uk.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775193/d9_tgmuo4.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775192/d10_b7l71w.png" alt="Demo Screenshot" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738610374/Screenshot_2025-02-03_182608_ambkeh.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738610374/Screenshot_2025-02-03_182633_jun0i3.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775193/d8_dh5zwb.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775194/d88_fux5uk.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775193/d9_tgmuo4.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775192/d10_b7l71w.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
