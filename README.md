@@ -122,7 +122,7 @@ npm run dev
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609178/Screenshot_2025-02-03_182445_lt45fs.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609171/Screenshot_2025-02-03_182527_zpnekf.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182546_aqlq4g.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609171/Screenshot_2025-02-03_182608_oob16r.png" alt="connect wallet" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738610374/Screenshot_2025-02-03_182608_ambkeh.png" alt="connect wallet" style="width: 100%;"/>
 
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182653_a1efas.png" alt="dashboard if not connected" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/v1738609173/Screenshot_2025-02-03_182736_ogxbkh.png" alt="screenshoot for demo purpose" style="width: 100%;"/>
