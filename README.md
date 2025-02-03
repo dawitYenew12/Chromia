@@ -120,7 +120,7 @@ npm run dev
 ## Some screenshots for the application
 
 <img src="https://res.cloudinary.com/dd07jzmaa/image/upload/t_Thumbnail/v1738609178/Screenshot_2025-02-03_182445_lt45fs.png" alt="Demo Screenshot" style="width: 100%;"/>
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775195/d11_bml422.png" alt="Demo Screenshot" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/t_Thumbnail/v1738609170/Screenshot_2025-02-03_182509_fexxvg.png" alt="Demo Screenshot" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775190/d4_qo9mp2.png" alt="Demo Screenshot" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775191/d5_gth0ds.png" alt="Demo Screenshot" style="width: 100%;"/>
 
