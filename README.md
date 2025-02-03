@@ -1,4 +1,4 @@
-# ChromWay To-do dApp
+# TaskFlow Blockchain To-Do App
 
 ## Authors
 
@@ -9,59 +9,60 @@
 
 ---
 
-## Project Description
+## Overview
 
-ChromWay To-do dApp is a multi-user to-do list application built with **Chromia**, **Rell**, and the **FT4 library**. It provides a secure platform for managing tasks, ensuring authentication and data integrity through blockchain.
+**TaskFlow** is a decentralized task management platform built using **Chromia**, **Rell**, and the **FT4 library**. This dApp provides a secure and transparent environment for users to manage their tasks on the blockchain. With seamless integration of **MetaMask** and **EVM wallets**, TaskFlow ensures that all user actions are recorded on-chain, offering a tamper-proof and trustworthy experience.
 
-### Key Features:
+### Core Features
 
-- **To-do dApp**: Add, update, complete, delete, sort, and filter tasks.
-- **Dashboard**: View summaries, including task trends and status.
-- **Authentication**: Secure user login via **MetaMask wallet**.
-- **Light/Dark Mode**: Toggle between themes.
-- **Mobile Responsive**: Optimized for cross-platform use.
-
----
-
-## How It Works
-
-### User Management
-
-- **Account Creation**: Connect an **EVM wallet** (e.g., MetaMask) for secure user accounts.
-- **Authentication**: User actions are linked to the authenticated account.
-
-### To-do dApp
-
-- Add, update, complete, and delete tasks.
-- Filter tasks by status (completed/pending).
-- Sort tasks by due date.
-
-### Dashboard
-
-- Task summaries, including:
-  - Total tasks.
-  - Pending and completed tasks.
-  - Due date trends.
+- **Task Management**: Add, edit, mark as complete, delete, filter, and sort tasks effortlessly.
+- **Interactive Dashboard**: View summarized statistics, trends, and task statuses for better insights.
+- **Secure Login**: Authenticate using **MetaMask** or other EVM wallets for a secure and decentralized experience.
+- **Responsive Design**: Fully optimized for both mobile and desktop devices.
+- **Dark/Light Theme**: Switch between dark and light modes for optimal viewing comfort.
 
 ---
 
-## Setup Instructions and Installation
+## How TaskFlow Works
+
+### User Account Management
+
+- **Account Setup**: Users link their **EVM wallet** (e.g., MetaMask) to create an account on TaskFlow.
+- **Blockchain Integration**: All user actions and task changes are linked to the authenticated wallet, ensuring data integrity and transparency.
+
+### Task Management Features
+
+- **Task Operations**: Users can add, edit, complete, and delete tasks as needed.
+- **Task Filtering**: Sort tasks by completion status (Pending, Completed).
+- **Due Date Sorting**: View tasks sorted by their due dates for better planning and prioritization.
+
+### Dashboard Analytics
+
+- **Statistics**: Displays total tasks, pending/completed tasks, and trends over time.
+- **Visual Insights**: The dashboard provides insights such as task completion rates and upcoming deadlines.
+
+---
+
+## Setup Guide
 
 ### Prerequisites
 
-1. Set up a PostgreSQL database.
-2. Install the **Chromia CLI** by following this guide:  
+1. **PostgreSQL Database**: Ensure you have a running PostgreSQL instance.
+2. **Chromia CLI**: Install the **Chromia CLI** by following the official guide:  
    [Chromia Setup Guide](https://learn.chromia.com/courses/marketplace-course/setup)
 
 ---
 
-## Running the Project Locally
+## Running Locally
+
+### Step-by-Step Instructions
 
 1. **Clone the Repository**:
 
-```bash
+   ```bash
    git clone git@gitlab.com:chromia1/chromway-task-management.git
-```
+
+   ```
 
 2. **Navigate to the Project Directory**:
 
@@ -99,10 +100,6 @@ cd chromia-task-management-frontend
 npm install
 ```
 
-```bash
-yarn
-```
-
 5. **Run the Frontend**:
 
 ```bash
@@ -122,7 +119,7 @@ npm run dev
 
 ## Some screenshots for the application
 
-<img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775196/d111_t7yzpq.png" alt="Demo Screenshot" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dd07jzmaa/image/upload/t_Thumbnail/v1738609178/Screenshot_2025-02-03_182445_lt45fs.png" alt="Demo Screenshot" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775195/d11_bml422.png" alt="Demo Screenshot" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775190/d4_qo9mp2.png" alt="Demo Screenshot" style="width: 100%;"/>
 <img src="https://res.cloudinary.com/defapkeo8/image/upload/v1737775191/d5_gth0ds.png" alt="Demo Screenshot" style="width: 100%;"/>
